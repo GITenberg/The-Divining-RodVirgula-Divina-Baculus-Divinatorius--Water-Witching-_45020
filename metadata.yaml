@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43037'
     url: http://www.gutenberg.org/2009/agents/43037
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45020#The-Divining-RodVirgula-Divina-Baculus-Divinatorius--Water-Witching-
 gutenberg_issued: '2014-02-26'
 gutenberg_type: Text
 identifiers:
